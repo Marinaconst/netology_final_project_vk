@@ -1,0 +1,15 @@
+# IntelliJ project files
+.idea
+*.iml
+
+# Visual Studio Code
+.vscode
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# dotenv
+.env
+
