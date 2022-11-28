@@ -3,5 +3,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-VK_TOKEN = env['VK_TOKEN']
+access_token = env['VK_ACCESS_TOKEN']
+user_id = env['VK_USED_ID']
 YA_DISK_TOKEN = env['YA_DISK_TOKEN']
