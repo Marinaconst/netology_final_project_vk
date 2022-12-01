@@ -13,3 +13,5 @@ ENV/
 # dotenv
 .env
 
+# custom
+*.json
